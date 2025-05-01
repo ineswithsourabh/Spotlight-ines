@@ -7,7 +7,7 @@ app.use(cors()); // Allow access from browser
 
 // Root route
 app.get('/', (req, res) => {
-  res.send('🎬 Movies API is running! Use /api/movies to get data.');
+  res.send('IneswithSourabh Your API is running! Use /api/movies to get data.');
 });
 
 // Route: GET /api/movies
