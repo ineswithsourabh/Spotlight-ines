@@ -5,7 +5,12 @@ const cors = require('cors');
 
 app.use(cors()); // Allow access from browser
 
-// Route: GET /api/animemovie
+// Root route
+app.get('/', (req, res) => {
+  res.send('🎬 Movies API is running! Use /api/movies to get data.');
+});
+
+// Route: GET /api/movies
 app.get('/api/movies', (req, res) => {
   fs.readFile('./movies.json', (err, data) => {
     if (err) {
@@ -17,5 +22,5 @@ app.get('/api/movies', (req, res) => {
 
 const port = process.env.PORT || 3000;
 app.listen(port, () => {
-  console.log(`Anime API running on port ${port}`);
+  console.log(`Movies API running on port ${port}`);
 });
