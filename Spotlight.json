@@ -1,21 +1,19 @@
-// Anime data for spotlight
-const animeData = [
-  {
-    image: "https://th-i.thgim.com/public/entertainment/movies/o2d0c8/article68031259.ece/alternates/FREE_1200/frieren-sousou-no-frieren-anime-hd-wallpaper-uhdpaper.com-6021n.jpg",
-    title: "Frieren",
-    description: "Action, Dark Fantasy",
-    alt: "Frieren"
-  },
-  {
-    image: "https://staticg.sportskeeda.com/editor/2023/01/edd25-16737314765060-1920.jpg",
-    title: "Vinland Saga",
-    description: "Warrior, Action, Historical",
-    alt: "Vinland Saga"
-  },
-  {
-    image: "https://i0.wp.com/www.smartprix.com/bytes/wp-content/uploads/2023/05/Deon-Slayer.jpg?ssl=1&quality=80&w=f",
-    title: "Demon Slayer",
-    description: "Adventure, Supernatural",
-    alt: "Demon Slayer"
-  },
-];
+{
+    "movieAnimeData": [
+      {
+        "title": "Frieren",
+        "image": "https://th-i.thgim.com/public/entertainment/movies/o2d0c8/article68031259.ece/alternates/FREE_1200/frieren-sousou-no-frieren-anime-hd-wallpaper-uhdpaper.com-6021n.jpg",
+        "description": "Action, Dark Fantasy"
+      },
+      {
+        "title": "Vinland Saga",
+        "image": "https://staticg.sportskeeda.com/editor/2023/01/edd25-16737314765060-1920.jpg",
+        "description": "Warrior, Action, Historical"
+      },
+      {
+        "title": "Demon Slayer",
+        "image": "https://i0.wp.com/www.smartprix.com/bytes/wp-content/uploads/2023/05/Deon-Slayer.jpg?ssl=1&quality=80&w=f",
+        "episodescriptionde": "Adventure, Supernatural"
+      }
+    ]
+  }
