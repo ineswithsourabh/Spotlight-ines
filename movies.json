@@ -1,74 +1,21 @@
-{
-    "movieAnimeData": [
-      {
-        "title": "One Piece Film: Red Hindi Dubbed",
-        "image": "https://i.pinimg.com/originals/a5/4d/f1/a54df18f2e2c6965bad37b3ed91de20b.jpg",
-        "episode": "Movie"
-      },
-      {
-        "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
-        "image": "https://flxt.tmsimg.com/assets/p19795888_v_v13_ab.jpg",
-        "episode": "Movie"
-      },
-      {
-        "title": "Into the Forest of Fireflies Light",
-        "image": "https://d3tvwjfge35btc.cloudfront.net/Assets/63/887/L_p0022088763.jpg",
-        "episode": "Movie"
-      },
-      {
-        "title": "Patema Inverted hindi Dubbed",
-        "image": "https://m.media-amazon.com/images/M/MV5BYjE1ZDUwNGYtYzM2Ni00NzhiLWFjOTAtMDM4ZDRiNzM5NTkxXkEyXkFqcGdeQXVyMjQ1NjEyNzE@._V1_.jpg",
-        "episode": "Movie"
-      },
-      {
-        "title": "A Whisker Away Nakitai Watashi wa Neko wo Kaburu",
-        "image": "https://th.bing.com/th/id/OIP.ZlQ5dVdTotxeKeUHQITz3gHaLH?rs=1&pid=ImgDetMain",
-        "episode": "Movie"
-      },
-      {
-        "title": "Hello World Fan Dubbed",
-        "image": "https://wallpapercave.com/wp/wp6095792.jpg",
-        "episode": "Movie"
-      },
-      {
-        "title": "A Silent Voice The Movie",
-        "image": "https://m.media-amazon.com/images/M/MV5BZGRkOGMxYTUtZTBhYS00NzI3LWEzMDQtOWRhMmNjNjJjMzM4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
-        "episode": "Movie"
-      },
-      {
-        "title": "I Want to Eat Your Pancreas",
-        "image": "https://wallpapercave.com/wp/wp6759455.jpg",
-        "episode": "Movie"
-      },
-      {
-        "title": "Grave of the Fireflies HD",
-        "image": "https://wallpapers.com/images/featured/grave-of-the-fireflies-hspsik04w8jq52qs.jpg",
-        "episode": "Movie"
-      },
-      {
-        "title": "5 Centimetres Per Second",
-        "image": "https://m.media-amazon.com/images/I/71H4SQqSj2L.jpg",
-        "episode": "Movie"
-      },
-      {
-        "title": "Kikis Delivery Service",
-        "image": "https://m.media-amazon.com/images/M/MV5BN2QyZmFjMTEtZjdjYy00NmE4LTkzZTgtMzhkNjFlMGEwNTY5L2ltYWdlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
-        "episode": "Movie"
-      },
-      {
-        "title": "Spirited Away Netflix orginal",
-        "image": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
-        "episode": "Movie"
-      },
-      {
-        "title": "My Neighbor Totoro 35th Anniversary",
-        "image": "https://m.media-amazon.com/images/M/MV5BYWM3MDE3YjEtitizZC00ODE5LTgxNTItNmUyMTBkM2M2NmNiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "episode": "Movie"
-      },
-      {
-        "title": "My Oni Girl Netflix orginal",
-        "image": "https://m.media-amazon.com/images/M/MV5BOGJiYjFlNmYtYmUyYi00NGFhLTgyZDktYmUwNTBkNjI3NGFiXkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_.jpg",
-        "episode": "Movie"
-      }
-    ]
-  }
+// Anime data for spotlight
+const animeData = [
+  {
+    image: "https://th-i.thgim.com/public/entertainment/movies/o2d0c8/article68031259.ece/alternates/FREE_1200/frieren-sousou-no-frieren-anime-hd-wallpaper-uhdpaper.com-6021n.jpg",
+    title: "Frieren",
+    description: "Action, Dark Fantasy",
+    alt: "Frieren"
+  },
+  {
+    image: "https://staticg.sportskeeda.com/editor/2023/01/edd25-16737314765060-1920.jpg",
+    title: "Vinland Saga",
+    description: "Warrior, Action, Historical",
+    alt: "Vinland Saga"
+  },
+  {
+    image: "https://i0.wp.com/www.smartprix.com/bytes/wp-content/uploads/2023/05/Deon-Slayer.jpg?ssl=1&quality=80&w=f",
+    title: "Demon Slayer",
+    description: "Adventure, Supernatural",
+    alt: "Demon Slayer"
+  },
+];
