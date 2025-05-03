@@ -7,12 +7,12 @@ app.use(cors()); // Allow access from browser
 
 // Root route
 app.get('/', (req, res) => {
-  res.send('IneswithSourabh Your API is running! Use /api/spotlight to get data.');
+  res.send('IneswithSourabh Your API is running! Use /api/Spotlight to get data.');
 });
 
 // Route: GET /api/movies
-app.get('/api/spotlight', (req, res) => {
-  fs.readFile('./spotlight.json', (err, data) => {
+app.get('/api/Spotlight', (req, res) => {
+  fs.readFile('./Spotlight.json', (err, data) => {
     if (err) {
       return res.status(500).json({ error: 'Failed to load data' });
     }
