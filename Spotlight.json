@@ -1,19 +1,233 @@
-{
-    "Spotlight Data": [
-      {
-        "title": "Frieren",
-        "image": "https://th-i.thgim.com/public/entertainment/movies/o2d0c8/article68031259.ece/alternates/FREE_1200/frieren-sousou-no-frieren-anime-hd-wallpaper-uhdpaper.com-6021n.jpg",
-        "description": "Action, Dark Fantasy"
-      },
-      {
-        "title": "Vinland Saga",
-        "image": "https://staticg.sportskeeda.com/editor/2023/01/edd25-16737314765060-1920.jpg",
-        "description": "Warrior, Action, Historical"
-      },
-      {
-        "title": "Demon Slayer",
-        "image": "https://i0.wp.com/www.smartprix.com/bytes/wp-content/uploads/2023/05/Deon-Slayer.jpg?ssl=1&quality=80&w=f",
-        "episodescriptionde": "Adventure, Supernatural"
-      }
-    ]
+[
+  {
+    "_id": "66caefab770d250ba576bfcd",
+    "isRecommended": false,
+    "isMovie": false,
+    "src": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/quality_assurance_in_another_world___poster.png",
+    "alt": "Quality Assurance In Another World",
+    "title": "Quality Assurance In Another World",
+    "link": "quality-assurance-in-another-world",
+    "__v": 0,
+    "isLatest": true
+  },
+  {
+    "_id": "66cafb53770d250ba576c0a4",
+    "isMovie": false,
+    "isLatest": true,
+    "src": "https://m.media-amazon.com/images/M/MV5BZjllODBiN2MtOWQzYS00ZDRlLTk5NzMtOGMyYmUzNzU1YjZkXkEyXkFqcGdeQXVyNjAwNDUxODI@.jpg",
+    "alt": "Blue Lock ",
+    "title": "Blue Lock",
+    "link": "blue-lock",
+    "isRecommended": true,
+    "__v": 0
+  },
+  {
+    "_id": "66cafecc770d250ba576c104",
+    "isRecommended": false,
+    "isMovie": false,
+    "src": "https://m.media-amazon.com/images/M/MV5BN2MxMjM2NWItMmVlYy00ZGRjLWE1NjAtYTY4MTk3NzY2ZGQ1XkEyXkFqcGc@.jpg",
+    "alt": "The Strongest Magician in the Demon Lord’s Army was a Human",
+    "title": "The Strongest Magician in the Demon Lord’s Army was a Human",
+    "link": "t-s-m",
+    "__v": 0,
+    "isLatest": true
+  },
+  {
+    "_id": "66cb860062c914e91b4de1c2",
+    "src": "https://m.media-amazon.com/images/M/MV5BZDU2MWNiYWMtMjIxZS00ZTVlLTkxZDAtYzA5YzFhODBhODAyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "alt": "Days with My Stepsister",
+    "title": "Days with My Stepsister",
+    "link": "days-with-my-stepsister",
+    "isRecommended": true,
+    "isMovie": false,
+    "isLatest": true,
+    "__v": 0
+  },
+  {
+    "_id": "66cb895262c914e91b4de20c",
+    "src": "https://m.media-amazon.com/images/M/MV5BMGM2MzA5YzYtODc0Ni00ZjU4LWI4ZmUtZGJjNGU0ODY1MGJkXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
+    "alt": "Mushoku Tensei: Jobless Reincarnation",
+    "title": "Mushoku Tensei: Jobless Reincarnation",
+    "link": "mushoku-tensei",
+    "isRecommended": true,
+    "isMovie": false,
+    "isLatest": true,
+    "__v": 0
+  },
+  {
+    "_id": "66cdf013e0e70d5fceb1018f",
+    "src": "https://m.media-amazon.com/images/M/MV5BNDJjNmNmMmYtNDQ1Zi00ZGEyLTg0NTYtZDEyNGFlYTE0NGVlXkEyXkFqcGc@._V1_.jpg",
+    "alt": "VTuber Legend",
+    "title": "VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream",
+    "link": "vtuber-legend",
+    "isRecommended": false,
+    "isMovie": false,
+    "isLatest": true,
+    "__v": 0
+  },
+  {
+    "_id": "66cdf15be0e70d5fceb10194",
+    "src": "https://m.media-amazon.com/images/M/MV5BYjEwNWYzYmUtZTlmYi00OTA3LTljOTEtYTVmZjNiNTQyYTAxXkEyXkFqcGc@._V1_.jpg",
+    "alt": "No Longer Allowed in Another World",
+    "title": "No Longer Allowed in Another World",
+    "link": "no-longer-allowed-in-another-world",
+    "isRecommended": false,
+    "isMovie": false,
+    "isLatest": true,
+    "__v": 0
+  },
+  {
+    "_id": "66cdf2d8e0e70d5fceb101ab",
+    "src": "https://m.media-amazon.com/images/M/MV5BMzA3MWRiZjQtNzlhNS00ZmFjLTgzNWItOTA4ZWFlOWFjMDBmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "alt": "Makeine: Too Many Losing Heroines!",
+    "title": "Makeine: Too Many Losing Heroines!",
+    "link": "makeine-too-many-losing-heroines",
+    "isRecommended": true,
+    "isMovie": false,
+    "isLatest": true,
+    "__v": 0
+  },
+  {
+    "_id": "66cdf3f7e0e70d5fceb101b6",
+    "src": "https://m.media-amazon.com/images/M/MV5BNjg0YTVjNTItZTI1ZC00MDZlLTllYjQtMDY0ODMxNDdlYjY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "alt": "Alya Sometimes Hides Her Feelings in Russian",
+    "title": "Alya Sometimes Hides Her Feelings in Russian",
+    "link": "alya-sometimes-hides-her-feelings-in-russian",
+    "isRecommended": true,
+    "isMovie": false,
+    "isLatest": true,
+    "__v": 0
+  },
+  {
+    "_id": "66cdf504e0e70d5fceb101c6",
+    "src": "https://m.media-amazon.com/images/M/MV5BYWRjMzRlZDktYmM0My00ZWQxLWE1MWEtNWJlMGEzMWEyNDNkXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
+    "alt": "A Condition Called Love",
+    "title": "A Condition Called Love",
+    "link": "a-condition-called-love",
+    "isRecommended": true,
+    "isMovie": false,
+    "isLatest": true,
+    "__v": 0
+  },
+  {
+    "_id": "66ce1bae2f914dea0447d210",
+    "src": "https://m.media-amazon.com/images/M/MV5BNThkMmVhZDItZWUyMC00NmYzLWE5MDEtNzhjOWM1NDE3ODVjXkEyXkFqcGc@._V1_.jpg",
+    "alt": "Why Does Nobody Remember Me in This World?",
+    "title": "Why Does Nobody Remember Me in This World?",
+    "link": "why-does-nobody-remember-me-in-this-world",
+    "isRecommended": false,
+    "isMovie": false,
+    "isLatest": true,
+    "__v": 0
+  },
+  {
+    "_id": "66ce2dcf91cb0c1f26163af1",
+    "src": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/eca729e2c2ae8ab45631c3bd11b81653.jpg",
+    "alt": "Tower of God S2",
+    "title": "Tower of God S2",
+    "link": "tower-of-god-s2",
+    "isRecommended": false,
+    "isMovie": false,
+    "isLatest": true,
+    "__v": 0
+  },
+  {
+    "_id": "66ce31f691cb0c1f26163b1c",
+    "src": "https://m.media-amazon.com/images/M/MV5BMjJlZTI4MzEtNTE3MS00ZTM4LWIwZTktMDg2ODc5MjcwYmQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "alt": "Fairy Tail: 100 Years Quest",
+    "title": "Fairy Tail: 100 Years Quest",
+    "link": "fairy-tail",
+    "isRecommended": false,
+    "isMovie": false,
+    "isLatest": true,
+    "__v": 0
+  },
+  {
+    "_id": "66ce39e591cb0c1f26163ba7",
+    "src": "https://m.media-amazon.com/images/M/MV5BYWU1ZjJiNDYtMDcxNi00YzAyLWJhNzYtOTA3NGRiNWY2YTJhXkEyXkFqcGc@._V1_.jpg",
+    "alt": "Mushoku Tensei: Jobless Reincarnation S2",
+    "title": "Mushoku Tensei S2",
+    "link": "mushoku-tensei-s2",
+    "isRecommended": false,
+    "isMovie": false,
+    "isLatest": true,
+    "__v": 0
+  },
+  {
+    "_id": "66cf622d7c14c47ad7fe04d9",
+    "src": "https://m.media-amazon.com/images/M/MV5BYmU2ZGFkY2MtYTVlOS00ZmExLThjMzMtY2MwMWFiYTBmMDA3XkEyXkFqcGc@._V1_.jpg",
+    "alt": "Black Summoner",
+    "title": "Black Summoner",
+    "link": "black-summoner",
+    "isRecommended": false,
+    "isMovie": false,
+    "isLatest": true,
+    "__v": 0
+  },
+  {
+    "_id": "66cf7fd4907d072f1816c082",
+    "src": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/e108ae17d8d0407417cac40eb52d849a.jpg",
+    "alt": "Black Clover S2",
+    "title": "Black Clover S2",
+    "link": "black-clover-s2",
+    "isRecommended": true,
+    "isMovie": false,
+    "isLatest": true,
+    "__v": 0
+  },
+  {
+    "_id": "66d08745c0e90437c611d6d8",
+    "src": "https://m.media-amazon.com/images/M/MV5BNzBjYWUyYjYtZmQ1Mi00NzhkLWJmNGEtZjI3OGM1NzcxMWU2XkEyXkFqcGc@.jpg",
+    "alt": "True Beauty",
+    "title": "True Beauty",
+    "link": "true-beauty",
+    "isRecommended": false,
+    "isMovie": false,
+    "isLatest": true,
+    "__v": 0
+  },
+  {
+    "_id": "66d2eba2782614c5e680efb2",
+    "src": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/ebf137866cc45a05c7401148fe1d6d20.jpg",
+    "alt": "That Time I Got Reincarnated as a Slime S3",
+    "title": "That Time I Got Reincarnated as a Slime S3",
+    "link": "that-time-i-got-reincarnated-as-a-slime-s3",
+    "isRecommended": false,
+    "isMovie": false,
+    "isLatest": true,
+    "__v": 0
+  },
+  {
+    "_id": "66d43c83782614c5e680fa0c",
+    "src": "https://m.media-amazon.com/images/M/MV5BNWU1OTgxYTMtZTViMy00MmU0LTg2ZGMtZDVkYTNlYzI4NWRjXkEyXkFqcGc@._V1_.jpg",
+    "alt": "Wistoria: Wand and Sword",
+    "title": "Wistoria: Wand and Sword",
+    "link": "wistoria",
+    "isRecommended": false,
+    "isMovie": false,
+    "isLatest": true,
+    "__v": 0
+  },
+  {
+    "_id": "66d43d9c782614c5e680fa26",
+    "src": "https://m.media-amazon.com/images/M/MV5BMmZkMmQwN2EtNmFmZi00ZTBhLWEwODktNmYzMGI1NGJjNGRmXkEyXkFqcGc@._V1_.jpg",
+    "alt": "Assassination Classroom S2",
+    "title": "Assassination Classroom S2",
+    "link": "assassination-classroom-s2",
+    "isRecommended": true,
+    "isMovie": false,
+    "isLatest": true,
+    "__v": 0
+  },
+  {
+    "_id": "66ef0c55077b4270051f7c30",
+    "src": "https://m.media-amazon.com/images/M/MV5BOTZhZWQ3ZGUtZjM2NC00OTViLWI3MzItOWJkNzFkY2ZhMzcwXkEyXkFqcGc@.jpg",
+    "alt": "Twilight Out of Focus",
+    "title": "Twilight Out of Focus",
+    "link": "twilight-out-of-focus",
+    "isRecommended": false,
+    "isMovie": false,
+    "isLatest": true,
+    "__v": 0
   }
+]
